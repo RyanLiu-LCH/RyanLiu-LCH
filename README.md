@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  Email : lch.ryanliu@gmail.com
+- Pronouns: He/Him
+- 👨‍🔬 INTJ(https://www.16personalities.com/intj-personality) Personality 
 
 
 [![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=RyanLiu-LCH&count_private=true&show_icons=true&theme=radical)](https://github.com/RyanLiu-LCH)
