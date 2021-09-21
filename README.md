@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RyanLiu-LCH
-- 👀 I’m interested in 安息
+- 👀 I’m interested in math, cs
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  Email : lch.ryanliu@gmail.com
